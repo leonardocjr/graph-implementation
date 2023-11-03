@@ -25,8 +25,12 @@ GRAFO *criaGrafo (int v);
 
 ADJACENCIA *criaAdj(int v, int peso);
 
-bool criaAresta(GRAFO *gr, int vi, int vf, TIPOPESO p);
+void criaAresta(GRAFO *gr, int vi, int vf, TIPOPESO p);
 
 void imprime(GRAFO *gr);
+
+int somaPeso(GRAFO *gr);
+
+void imprimeMatriz(GRAFO *gr);
 
 #endif
