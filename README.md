@@ -12,7 +12,7 @@
 
 ## Demonstrações dos códigos desenvolvidos
 ### Terminal do enunciado da aula 01:
-* Grafo não ponderado
-![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/7d341511-f922-453e-9493-fe077472d7ab)<br />
-* Grafo ponderado
+* <b>Grafo não ponderado</b><br />
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/7d341511-f922-453e-9493-fe077472d7ab)<br /><br />
+* <b>Grafo ponderado</b><br />
 ![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/2a71b4db-e3e3-4939-b662-05ee96fade32)
