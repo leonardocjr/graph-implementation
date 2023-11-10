@@ -15,4 +15,9 @@
 * <b>Grafo não ponderado</b><br />
 ![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/7d341511-f922-453e-9493-fe077472d7ab)<br /><br />
 * <b>Grafo ponderado</b><br />
-![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/2a71b4db-e3e3-4939-b662-05ee96fade32)
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/2a71b4db-e3e3-4939-b662-05ee96fade32)<br />
+### Terminal do enunciado da aula 02:
+* <b>Busca em largura (parâmetros: 1 ao 14):</b><br />
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/f5316cc4-9536-4880-954f-c805a499a692)
+* <b>Busca em profundidade (inicio: 0 ao grafo completo):</b><br />
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/0a04ce75-19c9-43aa-9d36-da6008c25322)
