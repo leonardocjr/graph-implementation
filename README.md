@@ -23,4 +23,6 @@
 ![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/0a04ce75-19c9-43aa-9d36-da6008c25322)<br />
 ### Terminal do enunciado da aula 03: 
 * <b>Algoritmo de Dijkstra - caminho mais curto (inicio: 0 ao 4):</b><br />
-![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/759c77f6-e5a1-4059-9c99-ef0e6f321bfd)
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/759c77f6-e5a1-4059-9c99-ef0e6f321bfd)<br />
+* <b>Algoritmo de Dijkstra - caminho mais curto (inicio: 0 ao 3):</b><br />
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/e0399413-bbe2-4f52-b6ec-cb8c202a2371)
