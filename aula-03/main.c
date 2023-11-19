@@ -34,6 +34,6 @@ int main(){
     printf("\n");
     imprimeMatriz(graph1);
     printf("\n");
-    caminho_mais_curto(graph1, 1, 5);
+    caminho_mais_curto(graph1, 0, 5);
     return 0;
 }
