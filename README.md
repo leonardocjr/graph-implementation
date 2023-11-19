@@ -11,7 +11,7 @@
 * Execute o código compilado pela linha 'main'
 
 ## Demonstrações dos códigos desenvolvidos
-### Terminal do enunciado da aula 01:
+### Terminal do enunciado da aula 01: (Matriz e lista de adjacência)
 * <b>Grafo não ponderado</b><br />
 ![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/7d341511-f922-453e-9493-fe077472d7ab)<br /><br />
 * <b>Grafo ponderado</b><br />
@@ -20,4 +20,7 @@
 * <b>Busca em largura (parâmetros: 1 ao 14):</b><br />
 ![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/f5316cc4-9536-4880-954f-c805a499a692)
 * <b>Busca em profundidade (inicio: 0 ao grafo completo):</b><br />
-![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/0a04ce75-19c9-43aa-9d36-da6008c25322)
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/0a04ce75-19c9-43aa-9d36-da6008c25322)<br />
+### Terminal do enunciado da aula 03: 
+* <b>Algoritmo de Dijkstra - caminho mais curto (inicio: 0 ao 4):</b><br />
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/759c77f6-e5a1-4059-9c99-ef0e6f321bfd)
