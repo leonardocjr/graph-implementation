@@ -25,4 +25,7 @@
 * <b>Algoritmo de Dijkstra - caminho mais curto (inicio: 0 ao 4):</b><br />
 ![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/759c77f6-e5a1-4059-9c99-ef0e6f321bfd)<br />
 * <b>Algoritmo de Dijkstra - caminho mais curto (inicio: 0 ao 3):</b><br />
-![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/e0399413-bbe2-4f52-b6ec-cb8c202a2371)
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/e0399413-bbe2-4f52-b6ec-cb8c202a2371)<br />
+* <b>Algoritmo de Dijkstra - caminho mais curto (inicio: 1 ao 5):</b><br />
+![image](https://github.com/leonardocjr/graph-implementation/assets/41709940/40fd335f-358f-4a7b-80d3-076cd505bd34)
+
